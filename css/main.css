@@ -1,5 +1,32 @@
 .nav-spacing {
-	margin: 0 0 0 10px; text-decoration: none;}
+	margin: 0 0 0 10px; text-decoration: none;
+}
 
 .nav-menu {
-	text-align: right;}
+	text-align: right;
+}
+
+.image-link {
+	text-decoration: none;
+}
+.header-spacing {
+	text-align: center; margin: 0 0 80px;
+}
+.div-moby{
+	width: 500px; margin: 20px auto; padding: 30px; background-color: #fafafa;
+}
+.whale-img{
+	margin: 0 auto; display: block;
+}
+.moby-img{
+	float: left; margin: 0 40px 0 0;
+}
+.moby-quote{
+	font-style: italic; font-size: 20px;
+}
+.ishmael{
+	font-style: normal; font-size: 24px; font-weight: bold; color: rgb(255, 0, 0);
+}
+.table-padding{
+	padding: 10px;
+}
